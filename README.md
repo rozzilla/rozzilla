@@ -8,7 +8,9 @@ I'm Roberto (nickname `rozzilla`), young software engineer excited to do full-st
 - algorithms solutions, like the [find adjacent boxes recursively in a matrix](https://gist.github.com/rozzilla/8878827106b7def80fd7fdec1f97dfed)
 
 ## 📫 How can you reach me?
-Easy, just send a connection request on LinkedIn and send me a message.
+Easy, send me a message on LinkedIn or Twitter.
+[![Twitter](https://www.flaticon.com/svg/static/icons/svg/1384/1384049.svg)](https://twitter.com/robertobianki)
+[![LinkedIn](https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg)](https://www.linkedin.com/in/robertobianchiweb)
 
 ## ⚡ Other info about you?
 I love trekking ⛰️, chess ♟️, playing music 🎹, read books 📚, and too many other things (like playing Super Mario 🎮) that I sadly had not enough time to do 🤣.
