@@ -11,4 +11,6 @@ I'm Roberto (nickname `rozzilla`), young software engineer excited to do full-st
 Easy, just send a connection request on LinkedIn and send me a message.
 
 ## ⚡ Other info about you?
-I love trekking ⛰️, chess ♟️, playing music 🎹, read books 📚, and too many other things I sadly had enough time to do 🤣.
+I love trekking ⛰️, chess ♟️, playing music 🎹, read books 📚, and too many other things (like playing Super Mario) that I sadly hadn't enough time to do 🤣.
+
+![Super Mario](https://media4.giphy.com/media/vu1dkYbukWyRO/200w.webp?cid=790b76114dadbdc2d68d111d13bb620cb4da7de5734fc70f&rid=200w.webp)
