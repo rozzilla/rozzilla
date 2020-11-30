@@ -1,6 +1,6 @@
 # Hi folks and welcome to my GitHub profile! ⛰️
 ## 💻 Brief introduction
-I'm Roberto (nickname `rozzilla`), young software engineer excited to do full-stack web development, to work with open source languages (like Node.js and Javascript) and technologies (for example Vue Storefront) on the backend and frontend, and to contribute to open-source projects.
+I'm Roberto (nickname `rozzilla`), young software engineer excited to do full-stack web development, to work with open source languages (like Node.js, TypeScript, and Javascript) and technologies (for example Vue Storefront) on the backend and frontend, and to contribute to open-source projects.
 
 ## 🔭 What you can find on my profile?
 - personal projects
