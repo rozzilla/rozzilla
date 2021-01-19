@@ -2,7 +2,7 @@
 ## 💻 Brief introduction
 I'm Roberto (nickname `rozzilla`), young software engineer excited to do full-stack web development, to work with open source languages (like Node.js, TypeScript, and Javascript) and technologies (for example Vue Storefront) on the backend and frontend, and to contribute to open-source projects
 
-## 🔭 What you can find on my profile?
+## 🔭 What can you find on my profile?
 - personal projects
 - contributions I made to open source projects, like the official [PayPal module for Vue Storefront](https://github.com/develodesign/vsf-payment-paypal)
 - algorithms solutions, like the [find adjacent boxes recursively in a matrix](https://gist.github.com/rozzilla/8878827106b7def80fd7fdec1f97dfed)
