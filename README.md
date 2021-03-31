@@ -5,7 +5,7 @@ I'm Roberto (nickname `rozzilla`), young software engineer excited to do full-st
 ## 🔭 What can you find on my profile?
 - personal projects
 - contributions I made to open source projects, like the official [PayPal module for Vue Storefront](https://github.com/develodesign/vsf-payment-paypal)
-- algorithms solutions, like the [find adjacent boxes recursively in a matrix](https://gist.github.com/rozzilla/8878827106b7def80fd7fdec1f97dfed)
+- algorithms solutions, like the [resolution of the Towers of Hanoi with recursion](https://gist.github.com/rozzilla/64f01031f563e5501f67bdbe9dc600b0)
 
 ## 📫 How can you reach me?
 On [Twitter](https://twitter.com/rbianchidev)!
