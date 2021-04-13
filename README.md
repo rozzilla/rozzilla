@@ -1,6 +1,6 @@
 # Hi folks and welcome to my GitHub profile! ⛰️
 ## 💻 Brief introduction
-I'm excited to work with open-source languages and technologies. I love to do many hobbies like trekking, reading books, playing music, chess, table tennis, board games, and video games like Super Mario.
+I'm excited to work with open-source languages and technologies!
 
 ## 🔭 What can you find on my profile?
 - personal projects
