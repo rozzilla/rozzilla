@@ -1,4 +1,4 @@
-# Hi folks and welcome to my GitHub profile! ⛰️
+# Hey folks: welcome to my GitHub profile! ⛰️
 ## 💻 Brief introduction
 I'm excited to work with open-source languages and technologies!
 
