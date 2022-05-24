@@ -4,8 +4,7 @@ I'm excited to work with open-source languages and technologies!
 
 ## 🔭 What can you find on my profile?
 - personal projects
-- contributions I made to open source projects, like the official [PayPal module for Vue Storefront](https://github.com/develodesign/vsf-payment-paypal)
-- algorithms solutions, like the [resolution of the Towers of Hanoi with recursion](https://gist.github.com/rozzilla/64f01031f563e5501f67bdbe9dc600b0)
+- contributions I made to some open-source projects
 
 ## 📫 How can you reach me?
 On [Twitter](https://twitter.com/rbianchidev)!
