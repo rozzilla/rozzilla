@@ -7,7 +7,7 @@ I'm excited to work with open-source languages and technologies!
 - contributions I made to some open-source projects
 
 ## 📫 How can you reach me?
-On [LinkedIn](https://www.linkedin.com/in/rbianchidev/) and [Twitter](https://twitter.com/rbianchidev)!
+On [LinkedIn](https://www.linkedin.com/in/rbianchidev/)!
 
 ## ⚡ Other info about me?
 I love trekking ⛰️, read books 📚, playing music 🎹, chess ♟️, table tennis 🏓, and too many other things (like playing Super Mario 🎮) that I sadly had not enough time to do 🤣
