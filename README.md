@@ -1,5 +1,5 @@
 # Hey folks: welcome to my GitHub profile! ⛰️
-## 💻 Brief introduction
+## 💻 Introduction
 I'm excited to work with open-source languages and technologies!
 
 ## 🔭 What can you find on my profile?
