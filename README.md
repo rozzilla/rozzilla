@@ -4,12 +4,12 @@
 
 ## 💻 Introduction
 
-I'm excited to work with open-source languages and technologies!
+I'm excited to work with open-source projects!
 
 ## 🔭 What can you find on my profile?
 
 - personal projects
-- contributions I made to some open-source projects
+- contributions I made to open-source projects
 
 ## 📫 How can you reach me?
 
@@ -17,4 +17,4 @@ On [LinkedIn](https://www.linkedin.com/in/rbianchidev/)!
 
 ## ⚡ Other info about me?
 
-I love trekking ⛰️, read books 📚, playing music 🎹, chess ♟️, table tennis 🏓, and too many other things (like playing Super Mario 🎮) that I sadly had not enough time to do 🤣
+I love trekking ⛰️, reading books 📚, playing music 🎹, chess ♟️, table tennis 🏓, and too many other things that I sadly haven't enough time to do 🤣
